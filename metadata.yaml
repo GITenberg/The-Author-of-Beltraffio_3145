@@ -1,5 +1,5 @@
 _repo: The-Author-of-Beltraffio_3145
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3145-h/images/coverb.jpg
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Authors -- Fiction'
 - !lcsh 'Family life -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Author of Beltraffio
 url: http://www.gutenberg.org/ebooks/3145
